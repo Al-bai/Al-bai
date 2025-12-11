@@ -1,7 +1,7 @@
 <!-- Header GIF -->
 <p align="center">
   <!-- Add your anime fantasy GIF here -->
-  <img src="https://tenor.com/cfK7ZmYlHot.gif" width="400px" alt="Fantasy Anime GIF">
+  <img src="<div class="tenor-gif-embed" data-postid="1754355092077995651" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/anime-anger-angry-annoyed-annoy-gif-1754355092077995651">Anime Anger GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="400px" alt="Fantasy Anime GIF">
 </p>
 
 <h1 align="center">✨ Arubai — Wandering Developer of Code & Magic ✨</h1>
