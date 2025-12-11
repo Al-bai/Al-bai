@@ -1,7 +1,7 @@
 <!-- Header GIF -->
 <p align="center">
   <!-- Add your anime fantasy GIF here -->
-  <img src="YOUR_GIF_LINK_HERE" width="400px" alt="Fantasy Anime GIF">
+  <img src="https://tenor.com/cfK7ZmYlHot.gif" width="400px" alt="Fantasy Anime GIF">
 </p>
 
 <h1 align="center">✨ Arubai — Wandering Developer of Code & Magic ✨</h1>
